@@ -36,3 +36,10 @@ Optionally, you can use your own code (without Qt) to do the windowing and rende
  - meshcolor.h/.cpp
  - ray.h/.cpp
 
+ ## The camera
+
+ To move the camera you have :
+ - ctrl + left mouse = rotate camera
+ - ctrl + right mouse OR alt + scroll = zoom out and zoom in
+ - ctrl + middle mouse = translate camera
+
